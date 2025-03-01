@@ -1,7 +1,7 @@
 # ℹ️ C Programs
 A repo containing all the beginner c programs that I practiced when I was learning c for the first time.
 
-## Concept Demonstration Programs
+## 📚 Concept Demonstration Programs
 
 1. Printing Statement  
 2. Taking Input  
@@ -18,7 +18,7 @@ A repo containing all the beginner c programs that I practiced when I was learni
 13. Exception Handling and Assertions  
 
 
-## Problems
+## 💡 Problems
 
 - **Basic Arithmetic Operations**  
   - Arithmetic Operations  
@@ -56,6 +56,6 @@ A repo containing all the beginner c programs that I practiced when I was learni
   - Reverse of a Number  
 
 
-## Endnote
+## ✍️ Endnote
 Thank you for reading!
 Support me on https://buymeacoffee.com/saad1inc
